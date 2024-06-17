@@ -27,6 +27,10 @@ Tailwind CSS can be customized using the tailwind.config.js file to tailor the f
 
 **Tailwind CSS Official Documentation**: [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
 
+**YouTube** - [PW Skills Tech](https://youtu.be/MiR1dyW45Uw?si=FX3upcWo-1_sDmkz)
+
+[Image by rawpixel.com on Freepik](https://www.freepik.com/free-photo/superfood-background-with-green-vegetables_15850959.htm)
+
 # Repository Author
 
 **Shahenwaz Muzahid** <br>
